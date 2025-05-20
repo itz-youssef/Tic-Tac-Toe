@@ -19,7 +19,4 @@ This project is a C++ console-based application featuring a collection of 9 crea
 - Easy-to-understand menu system
 - Educational structure for beginners in C++
 
-## 📂 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/itz-youssef/Tic-Tac-Toe.git
+
